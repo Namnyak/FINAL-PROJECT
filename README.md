@@ -28,21 +28,23 @@ Fixing structural issues
 
 # Interactive Dashboard.
 
+![Trends of Total injuries over years by Aircraft Make](Trends of total injuries.png)
+
+
+![Frequncy of Aircrfat by Makes](frequency of aircraft makes.png)
+
+
+![Trends of total uninjured cases over years by Aircraft Make](Trends of total uninjured.png)
 
 
 
+![Trends of total uninjured cases over the years by Aircraft Make](Trends of total uninjured.png)
 
 
+![A pice Chart representing Engine type per Make](Piecharts-engine type.png)
 
 
-
-
-
-
-
-
-
-
+![Frequency of Aircraft Make by country ](worldmap graph.png)
 
 
 
