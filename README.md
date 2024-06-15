@@ -20,35 +20,32 @@ Weather Conditions: Weather data at the time of each accident or incident.
 Methods
 This project employs descriptive analysis in various forms to understand the primary causes of aviation accidents. It also uses exploratory diagnostic analyses to explore correlations between different entries and the regions or states most frequently involved in aviation accidents. A significant part of the project focuses on data cleaning, including:
 
-Handling missing values
-Checking for duplicates
-Fixing structural issues
+- Handling missing values
+- Checking for duplicates
+- Fixing structural issues
 
 
+# Visualization.
 
-# Interactive Dashboard.
-
-![Trends of Total injuries over years by Aircraft Make](Trends of total injuries.png)
-
-
-![Frequncy of Aircrfat by Makes](frequency of aircraft makes.png)
+### Total injuries by make over the years
+![png](output_64_2.png)
 
 
-![Trends of total uninjured cases over years by Aircraft Make](Trends of total uninjured.png)
+### Engine Type Piechart 
+![png](output_69_0.png)
 
 
+### Weather condition by Total Injuries
+![png](output_74_0.png)
 
-![Trends of total uninjured cases over the years by Aircraft Make](Trends of total uninjured.png)
+### Purpose of flight by Total Injuries
+![png](output_78_0.png)
 
-
-![A pice Chart representing Engine type per Make](Piecharts-engine type.png)
-
-
-![Frequency of Aircraft Make by country ](worldmap graph.png)
-
-
+### Make by Countries
+![png](output_81_0.png)
 
 
+![png](output_83_1.png)
 
 
 
