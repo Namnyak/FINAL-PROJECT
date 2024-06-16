@@ -9,13 +9,17 @@ As the company diversifies its portfolio into the aviation sector, it faces sign
 ## Data Understanding
 The "Aviation Accident Database & Synopses, up to 2023" from National Transportation Safety Board (NTSB),Kaggle NTSB aviation accident dataset, is a comprehensive dataset containing detailed information about aviation accidents and incidents. This dataset provides critical insights into various aspects of aviation safety and operational efficiency. For our analysis, we focus on the following key components of the dataset:
 
-Accident and Incident Data: This includes detailed records of aviation accidents and incidents, encompassing data points such as the date, location, and severity of each event
+#### Accident and Incident Data: 
+This includes detailed records of aviation accidents and incidents, encompassing data points such as the date, location, and severity of each event
 
-Aircraft Information: Details about the aircraft involved in each accident or incident, including model, manufacturer, and Engine ytpe, Number of engines and purpose of the flight.
+#### Aircraft Information:
+Details about the aircraft involved in each accident or incident, including model, manufacturer, and Engine ytpe, Number of engines and purpose of the flight.
 
-Synopsis: Brief summaries of each accident or incident, providing context and initial findings. Cause and Contributing Factors: Information on the identified causes and contributing factors for each event.
+#### Synopsis:
+Brief summaries of each accident or incident, providing context and initial findings. Cause and Contributing Factors: Information on the identified causes and contributing factors for each event.
 
-Weather Conditions: Weather data at the time of each accident or incident.
+#### Weather Conditions:
+Weather data at the time of each accident or incident.
 
 Methods
 This project employs descriptive analysis in various forms to understand the primary causes of aviation accidents. It also uses exploratory diagnostic analyses to explore correlations between different entries and the regions or states most frequently involved in aviation accidents. A significant part of the project focuses on data cleaning, including:
@@ -28,24 +32,24 @@ This project employs descriptive analysis in various forms to understand the pri
 # Visualization.
 
 ### Total injuries by make over the years
-![png](output_64_2.png)
+![png](Trends of Total Injuries by Aircraft Make overtime.png)
 
 
 ### Engine Type Piechart 
-![png](output_69_0.png)
+![png](Engine Types by Make.png)
 
 
 ### Weather condition by Total Injuries
-![png](output_74_0.png)
+![png](Weather Condition by percentage Total Injuries.png)
 
 ### Purpose of flight by Total Injuries
-![png](output_78_0.png)
+![png](Purpose of flight by Total Injuries.png)
 
 ### Make by Countries
-![png](output_81_0.png)
+![png](Aircraft Make by Country.png)
 
 
-![png](output_83_1.png)
+![png](A world map of Makes by Country.png)
 
 
 
@@ -58,7 +62,7 @@ Cessna: Comprises 25% of all observed counts, the highest among the aircraft mak
 High Total Injuries: Cessna, Boeing, Piper, and Beech show the highest total injuries. High Uninjured Cases: Boeing, McDonnell Douglas, Cessna, and Airbus lead in total uninjured cases, with Boeing having the highest number of uninjured cases.
 
 ## Engine Types:
-Cessna, Piper, and Beech: Predominantly utilize reciprocating engines. Boeing: Primarily employs United States engines, with turbofan engines being common.
+Reciprocating engines had the highest accident incidences with the most total injuries.With Turbo fan used mostly by BOEING.
 
 ## Usage Patterns:
 Beech: Mostly used for personal flights, followed by instructional and business purposes. Boeing: Commonly used within the United States for personal flights and a smaller number for business. Cessna: Primarily used for personal flights, with substantial usage for instructional purposes, business, and various operational needs like aerial applications.

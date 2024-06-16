@@ -32,24 +32,24 @@ This project employs descriptive analysis in various forms to understand the pri
 # Visualization.
 
 ### Total injuries by make over the years
-![png](output_64_2.png)
+![png](Trends of Total Injuries by Aircraft Make overtime.png)
 
 
 ### Engine Type Piechart 
-![png](output_69_0.png)
+![png](Engine Types by Make.png)
 
 
 ### Weather condition by Total Injuries
-![png](output_74_0.png)
+![png](Weather Condition by percentage Total Injuries.png)
 
 ### Purpose of flight by Total Injuries
-![png](output_78_0.png)
+![png](Purpose of flight by Total Injuries.png)
 
 ### Make by Countries
-![png](output_81_0.png)
+![png](Aircraft Make by Country.png)
 
 
-![png](output_83_1.png)
+![png](A world map of Makes by Country.png)
 
 
 
